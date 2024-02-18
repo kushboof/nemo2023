@@ -1,7 +1,7 @@
-# Rover Control Code
+# Autonomous Rover Code
 
 ## Overview
-This repository contains the code for controlling our custom-designed rover. The rover is equipped with various sensors and a camera to facilitate its navigation and object detection capabilities.
+This repository contains the code for controlling our custom-designed rover. The rover is equipped with various sensors and a camera to control its navigation and commands related to object detection.
 
 ## Features
 - Utilizes three infrared sensors positioned at the base to aid in steering the vehicle.
@@ -18,9 +18,6 @@ This repository contains the code for controlling our custom-designed rover. The
 3. Ensure all sensors and the camera are properly calibrated and connected.
 4. Power on the rover and initiate the control program.
 5. Monitor the rover's behavior and adjust parameters as necessary.
-
-## Contributing
-Contributions to the codebase are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
