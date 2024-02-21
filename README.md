@@ -1,10 +1,10 @@
 # Autonomous Rover Code
 
 ## Overview
-This repository contains the code for controlling our custom-designed rover. The rover is equipped with various sensors and a camera to control its navigation and commands related to object detection.
+This repository contains the code for controlling Team Nemo's custom-designed rover. The rover is equipped with three Infrared sensors and a Pixy2 camera to control its navigation and the commands related to object detection.
 
 ## Features
-- Utilizes three infrared sensors positioned at the base to aid in steering the vehicle.
+- Utilizes three IR sensors positioned at the base to steer the vehicle according to a line on the ground.
 - Incorporates a Pixy2 camera for detecting objects based on specific color, width, and height criteria.
 - Implements functionality for the rover to autonomously follow and grab objects using its gripper claw.
 
